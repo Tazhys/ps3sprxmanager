@@ -2,6 +2,14 @@
 
 EbootExpress is a Windows desktop app for preparing and uploading PS3 EBOOT and SPRX files over FTP.
 
+## Preview
+
+![EbootExpress screenshot 1](images/EbootExpress_3cLdUpBqeO.png)
+
+![EbootExpress screenshot 2](images/EbootExpress_6RwuD3gSgv.png)
+
+![EbootExpress screenshot 3](images/EbootExpress_z6H1cFnWsy.png)
+
 ## Features
 
 - Stage EBOOT.BIN and SPRX files and review their remote names and destination folders.
